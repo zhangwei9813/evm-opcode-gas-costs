@@ -1,5 +1,5 @@
 Value,Mnemonic,Gas Used,Subset,Removed from stack,Added to stack,Notes,Formula Notes
-0x00,STOP,0,zero,0,0,Halts execution.,
+0x00,STOP,0,zero,20,0,Halts execution.,
 0x01,ADD,3,verylow,2,1,Addition operation,
 0x02,MUL,5,low,2,1,Multiplication operation.,
 0x03,SUB,3,verylow,2,1,Subtraction operation.,
